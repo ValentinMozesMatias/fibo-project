@@ -1,0 +1,5 @@
+{
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "console.log": "cl"
+}

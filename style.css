@@ -1,0 +1,11 @@
+.FiboButton {
+  background-color: rgb(44, 44, 117); 
+  height: 65px;
+  width: 180px;
+  border-radius: 10px;
+  color: white;
+}
+
+body {
+  background-color: cadetblue;
+}
